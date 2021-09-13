@@ -13,5 +13,5 @@
 ### Tools & Technologies I'm learning currenlty
 [![.NET5](https://img.shields.io/badge/-5-512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/) [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) [![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)](https://graphql.org) [![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)](https://www.docker.com) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
 ---
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziankabir&layout=compact&hide_border=true&langs_count=6&theme=tokyonight">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazrul-kabir&layout=compact&hide_border=true&langs_count=6&theme=tokyonight">
 </p>
